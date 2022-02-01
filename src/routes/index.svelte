@@ -6,4 +6,4 @@
 	}
 </script>
 
-<Parent {name} />
+<Parent {name} animal="dog" />
